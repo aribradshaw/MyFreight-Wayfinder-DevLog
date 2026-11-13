@@ -5,7 +5,16 @@
   <subtitle>What changed in each version of MyFreight: Wayfinder Forwarding.</subtitle>
   <link rel="self" type="application/atom+xml" href="https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/"/>
-  <updated>2026-11-13T21:55:00.000Z</updated>
+  <updated>2026-11-13T23:51:57.436Z</updated>
+  <entry>
+    <id>https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/#v0.1.2</id>
+    <title>v0.1.2 — Rivals, treaties and a living sea</title>
+    <link rel="alternate" type="text/html" href="https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/#v0.1.2"/>
+    <published>2026-11-13T23:51:57.436Z</published>
+    <updated>2026-11-13T23:51:57.436Z</updated>
+    <author><name>Ari Bradshaw</name></author>
+    <content type="html">&lt;p&gt;13 November 2026&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Two rival houses with real personalities now bid against you: Pemberton &amp;amp; Vane hold their rates like the old guard, while Keelcut Freight undercuts everyone and learns what you charge.&lt;/li&gt;&lt;li&gt;Sealed bids are fair: every offer is judged together when the window closes, and when you lose you learn who won and by how much.&lt;/li&gt;&lt;li&gt;Diplomacy arrives: agency agreements, co-loading, space sharing, referrals, non-compete zones, joint ventures, alliances with price wars, and hostile takeovers.&lt;/li&gt;&lt;li&gt;Pack shared containers in the new consolidation puzzle: weigh, stack and segregate cargo, then slam the doors for a SEALED stamp.&lt;/li&gt;&lt;li&gt;Play a five-chapter campaign, from your first charter through peak season, a canal blockage and agents abroad.&lt;/li&gt;&lt;li&gt;Multiplayer: host a world, share a room code, and run rival houses together with chat, pause requests and speed votes.&lt;/li&gt;&lt;li&gt;The sea comes alive: tides breathe along the coasts, the chart wraps endlessly across the Pacific, and storms, strikes and blockages appear on the map.&lt;/li&gt;&lt;li&gt;Real ship horns, a ship&amp;#39;s telegraph bell, harbour ambience and music that tightens as cutoffs close in; no more overlapping text anywhere.&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <id>https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/#v0.1.1</id>
     <title>v0.1.1 — The Captain&#39;s Log opens: everything aboard so far</title>

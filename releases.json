@@ -1,8 +1,26 @@
 {
   "game": "MyFreight: Wayfinder Forwarding",
   "site": "https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/",
-  "latest": "0.1.1",
+  "latest": "0.1.2",
   "releases": [
+    {
+      "version": "0.1.2",
+      "date": "2026-11-13",
+      "releasedAt": "2026-11-13T23:51:57.436Z",
+      "title": "Rivals, treaties and a living sea",
+      "notes": [
+        "Two rival houses with real personalities now bid against you: Pemberton & Vane hold their rates like the old guard, while Keelcut Freight undercuts everyone and learns what you charge.",
+        "Sealed bids are fair: every offer is judged together when the window closes, and when you lose you learn who won and by how much.",
+        "Diplomacy arrives: agency agreements, co-loading, space sharing, referrals, non-compete zones, joint ventures, alliances with price wars, and hostile takeovers.",
+        "Pack shared containers in the new consolidation puzzle: weigh, stack and segregate cargo, then slam the doors for a SEALED stamp.",
+        "Play a five-chapter campaign, from your first charter through peak season, a canal blockage and agents abroad.",
+        "Multiplayer: host a world, share a room code, and run rival houses together with chat, pause requests and speed votes.",
+        "The sea comes alive: tides breathe along the coasts, the chart wraps endlessly across the Pacific, and storms, strikes and blockages appear on the map.",
+        "Real ship horns, a ship's telegraph bell, harbour ambience and music that tightens as cutoffs close in; no more overlapping text anywhere."
+      ],
+      "author": "Ari Bradshaw",
+      "commit": null
+    },
     {
       "version": "0.1.1",
       "date": "2026-11-13",
@@ -17,7 +35,7 @@
         "Stakes and progression: working capital, covenant strikes, charter ranks, crew to hire and release, branch offices, and a verdict when your run ends."
       ],
       "author": "Ari Bradshaw",
-      "commit": null
+      "commit": "d15990e"
     }
   ]
 }
