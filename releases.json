@@ -1,0 +1,23 @@
+{
+  "game": "MyFreight: Wayfinder Forwarding",
+  "site": "https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/",
+  "latest": "0.1.1",
+  "releases": [
+    {
+      "version": "0.1.1",
+      "date": "2026-11-13",
+      "releasedAt": "2026-11-13T21:55:00.000Z",
+      "title": "The Captain's Log opens: everything aboard so far",
+      "notes": [
+        "A living nautical world chart: ships sail real sea lanes between the great ports, and you can zoom from the whole globe down to a single harbour.",
+        "Run your forwarding desk: quote shippers, mind every document, cargo and VGM cutoff, and watch a missed sailing roll your boxes to the next vessel.",
+        "Rival forwarders bid against you in sealed offers, and you can strike referral pacts with them (or break them, at a price to your reputation).",
+        "A map-first desk: floating drawers, a folder card for every file, and text and numbers that roll, type and ease instead of snapping.",
+        "A main menu and a guided tutorial, plus sound: paper, stamps, telegraph keys and ship's bells.",
+        "Stakes and progression: working capital, covenant strikes, charter ranks, crew to hire and release, branch offices, and a verdict when your run ends."
+      ],
+      "author": "Ari Bradshaw",
+      "commit": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/</id>
+  <title>MyFreight: Wayfinder Forwarding — Captain&#39;s Log</title>
+  <subtitle>What changed in each version of MyFreight: Wayfinder Forwarding.</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/"/>
+  <updated>2026-11-13T21:55:00.000Z</updated>
+  <entry>
+    <id>https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/#v0.1.1</id>
+    <title>v0.1.1 — The Captain&#39;s Log opens: everything aboard so far</title>
+    <link rel="alternate" type="text/html" href="https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/#v0.1.1"/>
+    <published>2026-11-13T21:55:00.000Z</published>
+    <updated>2026-11-13T21:55:00.000Z</updated>
+    <author><name>Ari Bradshaw</name></author>
+    <content type="html">&lt;p&gt;13 November 2026&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A living nautical world chart: ships sail real sea lanes between the great ports, and you can zoom from the whole globe down to a single harbour.&lt;/li&gt;&lt;li&gt;Run your forwarding desk: quote shippers, mind every document, cargo and VGM cutoff, and watch a missed sailing roll your boxes to the next vessel.&lt;/li&gt;&lt;li&gt;Rival forwarders bid against you in sealed offers, and you can strike referral pacts with them (or break them, at a price to your reputation).&lt;/li&gt;&lt;li&gt;A map-first desk: floating drawers, a folder card for every file, and text and numbers that roll, type and ease instead of snapping.&lt;/li&gt;&lt;li&gt;A main menu and a guided tutorial, plus sound: paper, stamps, telegraph keys and ship&amp;#39;s bells.&lt;/li&gt;&lt;li&gt;Stakes and progression: working capital, covenant strikes, charter ranks, crew to hire and release, branch offices, and a verdict when your run ends.&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
+</feed>
