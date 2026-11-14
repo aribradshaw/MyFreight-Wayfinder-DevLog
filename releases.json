@@ -1,8 +1,19 @@
 {
   "game": "MyFreight: Wayfinder Forwarding",
   "site": "https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/",
-  "latest": "0.1.3",
+  "latest": "0.1.4",
   "releases": [
+    {
+      "version": "0.1.4",
+      "date": "2026-11-14",
+      "releasedAt": "2026-11-14T00:46:24.827Z",
+      "title": "A proper welcome aboard",
+      "notes": [
+        "The project page now shows the game off: screenshots of the chart, the desk, quoting, diplomacy, consolidation and the campaign, plus a plain-English tour of how a freight file works."
+      ],
+      "author": "Ari Bradshaw",
+      "commit": null
+    },
     {
       "version": "0.1.3",
       "date": "2026-11-14",
@@ -12,7 +23,7 @@
         "Behind-the-scenes review notes and planning for the next voyage; no gameplay changes in this release."
       ],
       "author": "Ari Bradshaw",
-      "commit": null
+      "commit": "5076584"
     },
     {
       "version": "0.1.2",
