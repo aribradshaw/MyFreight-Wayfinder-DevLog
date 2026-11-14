@@ -1,8 +1,26 @@
 {
   "game": "MyFreight: Wayfinder Forwarding",
   "site": "https://aribradshaw.github.io/MyFreight-Wayfinder-DevLog/",
-  "latest": "0.1.4",
+  "latest": "0.1.5",
   "releases": [
+    {
+      "version": "0.1.5",
+      "date": "2026-11-14",
+      "releasedAt": "2026-11-14T06:14:32.593Z",
+      "title": "A fair fight on every lane",
+      "notes": [
+        "The term is winnable: rival houses grow only as fast as their desks allow, the Old Guard fights back, and victory comes at half a million in net worth.",
+        "Treaties are earned, not free: referrals lead to agency and co-loading, alliances need proven trust, and every payout is paid by someone.",
+        "Every choice counts: prestige shippers, sailings that trade price for reliability, shippers who stall, and crew worth hiring.",
+        "A day clock, live standings and a Monday headline show who's winning; a new Branch House rank fills the mid-game.",
+        "Multiplayer is smooth for every captain, and dropping out or reloading puts you straight back in your seat.",
+        "Sharper coastlines up close, sea lanes that follow the real straits, and treaty arcs sealed in wax on the chart.",
+        "Easier on the eyes and hands: nothing covers your work, the quote button is always in reach on Steam Deck, bigger text options, a colour-blind palette, and full controller play.",
+        "Music tightens as cutoffs close in, and every departure rings the engine-order telegraph."
+      ],
+      "author": "Ari Bradshaw",
+      "commit": null
+    },
     {
       "version": "0.1.4",
       "date": "2026-11-14",
@@ -12,7 +30,7 @@
         "The project page now shows the game off: screenshots of the chart, the desk, quoting, diplomacy, consolidation and the campaign, plus a plain-English tour of how a freight file works."
       ],
       "author": "Ari Bradshaw",
-      "commit": null
+      "commit": "6de7656"
     },
     {
       "version": "0.1.3",
